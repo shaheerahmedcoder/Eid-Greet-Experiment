@@ -73,7 +73,3 @@ npm install
 npm run dev
 
 ```
-
-> *Built while experimenting and learning 3D character animation and state machines in Three.js 🌙*
-
-### 🌙 Eid Mubarak!
