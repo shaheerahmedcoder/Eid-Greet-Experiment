@@ -72,7 +72,7 @@ npm install
 # Start
 npm run dev
 
- Open browser at http://localhost:
+ Open browser at http://local
 ```
 
 ---
