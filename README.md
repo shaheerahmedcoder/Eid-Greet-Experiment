@@ -74,32 +74,6 @@ npm run dev
 
 ```
 
----
-
-## 📁 File Structure
-
-```
-eid-greet/
-├── public/
-│   └── fonts/                     ← 3D font goes here
-├── src/
-│   ├── components/
-│   │   ├── Scene.jsx              ← Lights, camera, assembles scene
-│   │   ├── legoCharacter.jsx      ← Animated Lego figure + hammer
-│   │   ├── magicCube.jsx          ← Cube that shakes and opens
-│   │   ├── eidText.jsx            ← Glowing Eid Mubarak reveal
-│   │   ├── mosqueSilhouette.jsx   ← Mosque + moon background
-│   │   ├── lanterns.jsx           ← Swaying coloured lanterns
-│   │   ├── particles.jsx          ← Confetti burst effect
-│   │   ├── ground.jsx             ← Dark floor
-│   │   ├── ui.jsx                 ← Buttons and text overlay
-│   │   └── ui.css                 ← UI styling
-│   └── App.jsx                    ← Root, sets up 3D canvas
-├── package.json
-└── vite.config.js
-
-
-
 > *Built while experimenting and learning 3D character animation and state machines in Three.js 🌙*
 
 ### 🌙 Eid Mubarak!
